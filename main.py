@@ -4,4 +4,4 @@ bot = discord.Client()
 
 @bot.event
 async def on_ready():
-    print("Ready")
+    print("Ready to be hysterical!")
